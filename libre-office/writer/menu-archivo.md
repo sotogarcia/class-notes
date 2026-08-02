@@ -40,7 +40,7 @@
             - **Servicios CMIS:** Permiten conectarse a servidores que implementan el estándar CMIS, como Alfresco, Nuxeo, OpenText, SharePoint u otros servicios compatibles.
             - **WebDAV:** Utiliza una extensión de HTTP para gestionar archivos y carpetas en un servidor remoto.
             - **Recurso compartido de Windows:** Accede a carpetas compartidas mediante los servicios de archivos de Windows.
-            - **SSH:** Utiliza SFTP para transferir archivos de forma segura; esta conexión no está disponible en Windows.
+            - **SSH:** Utiliza SFTP para transferir archivos de forma segura.
         - **Datos de conexión:** Varían según el servicio y pueden incluir servidor, raíz, recurso compartido, repositorio, usuario, contraseña y etiqueta.
         - **Recordar contraseña:** Guarda la contraseña en el perfil de usuario de LibreOffice, protegida por la contraseña maestra cuando esta se ha configurado.
         - **Filtro:** Limita los archivos mostrados según su tipo.
