@@ -1,29 +1,5 @@
 # Movimiento
 
-<style>
-table {
-    width: 100%;
-    border-collapse: collapse;
-}
-
-th,
-td {
-    padding: 0.4rem 0.6rem;
-    text-align: left;
-    vertical-align: top;
-}
-
-th:first-child,
-td:first-child {
-    width: 30%;
-}
-
-th:nth-child(2),
-td:nth-child(2) {
-    width: 70%;
-}
-</style>
-
 ## Con el ratón
 
 | Acción | Resultado |
